@@ -1,0 +1,6 @@
+agno>=2.2.0
+qdrant-client>=1.16.0
+ollama
+unstructured
+markdown
+sqlalchemy
